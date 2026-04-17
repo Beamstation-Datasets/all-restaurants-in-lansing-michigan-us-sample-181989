@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Lansing, Michigan with a population of over 112k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Lansing, Michigan, US",
-  "export_job_id": "c0631d02-4529-4e8b-ba64-b572edceceb3",
+  "export_job_id": "72d7bca8-1ec0-42a9-9a36-e45a7503bd38",
   "github_org": "Beamstation-Datasets",
   "id_short": 181989,
   "location_name": "Lansing",
   "location_type": "city",
   "repo_name": "all-restaurants-in-lansing-michigan-us-sample-181989",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/181989/beamstation_181989_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_pct": 9.91,
+  "sample_pct": 9.98,
   "sample_records": 46,
-  "sample_sha256": "de524f6bfe32049ca3079683841a68ad4294030ff77a0077cbc436201928ba90",
-  "sample_size_bytes": 187699,
-  "total_records": 464,
-  "updated_at": "2026-04-07T11:05:17.463450+00:00"
+  "sample_sha256": "528b6e22668454eed268b4f2d0344b2d14be186bcf82a71853c23f3e55a4988c",
+  "sample_size_bytes": 180077,
+  "total_records": 461,
+  "updated_at": "2026-04-14T10:59:46.372145+00:00"
 }

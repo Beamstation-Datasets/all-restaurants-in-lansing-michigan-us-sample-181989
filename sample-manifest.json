@@ -1,12 +1,12 @@
 {
-  "export_job_id": "86c60742-3661-402a-875f-c2de37b78c44",
+  "export_job_id": "bc31701d-072f-4b15-b51e-8f88f27109ab",
   "id_short": 181989,
-  "published_at": "2026-04-21T19:08:37Z",
+  "published_at": "2026-04-28T19:10:30Z",
   "repo_name": "all-restaurants-in-lansing-michigan-us-sample-181989",
   "sample_asset_name": "beamstation_181989_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/181989/beamstation_181989_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 40,
-  "sample_sha256": "817c8f826d88df65fd0a070d61dab2137e5db0eee87e29f6b87b5668b4e08a2f",
-  "sample_size_bytes": 156455,
-  "total_records": 405
+  "sample_records": 47,
+  "sample_sha256": "4a933c4ce58e5c1b904133e64eb11f800efed5aaa40aefde31646eff965949d7",
+  "sample_size_bytes": 149301,
+  "total_records": 476
 }
